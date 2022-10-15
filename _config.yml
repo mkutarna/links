@@ -5,10 +5,10 @@ name: Matthew Kutarna
 tagline: Howdy, I'm Matthew Kutarna. I'm an aspiring Data Scientist / Machine Learning Engineer Lover from in Vancouver area. 
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://www.gravatar.com/avatar/0d73468bd0b0258eb61d9358352ecb7b?s=500
+Image_URL: https://mkutarna.github.io/img/profile.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://source.unsplash.com/random
+Cover_Image: https://unsplash.com/collections/4493625/code
 
 # SOCIAL MEDIA
 links:
@@ -48,9 +48,6 @@ links:
     Icon-Class: fas fa-link
     Color: '#d94869'
     Text_Color: '#ffffff'
-
-# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
