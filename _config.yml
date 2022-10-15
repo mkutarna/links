@@ -8,7 +8,7 @@ tagline: Howdy, I'm Matthew Kutarna. I'm an aspiring Data Scientist / Machine Le
 Image_URL: https://mkutarna.github.io/img/profile.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://unsplash.com/collections/4493625/code
+Cover_Image: https://images.unsplash.com/photo-1550439062-609e1531270e
 
 # SOCIAL MEDIA
 links:
@@ -31,7 +31,7 @@ links:
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
+    URL: 'mailto:matthewkutarna@gmail.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
@@ -41,12 +41,6 @@ links:
     URL: https://huggingface.co/spaces/mkutarna/audiobook_gen
     Icon-Class: fas fa-link
     Color: '#ffb142'
-    Text_Color: '#ffffff'
-
-  - Name: Links
-    URL: https://github.com/mkutarna/links
-    Icon-Class: fas fa-link
-    Color: '#d94869'
     Text_Color: '#ffffff'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
