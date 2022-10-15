@@ -37,7 +37,7 @@ links:
     Text_Color: '#ffffff'
 
     # CUSTOM LINK
-  - Name: HuggingFace Space
+  - Name: 'Project: Audiobook Gen'
     URL: https://huggingface.co/spaces/mkutarna/audiobook_gen
     Icon-Class: fas fa-link
     Color: '#ffb142'
